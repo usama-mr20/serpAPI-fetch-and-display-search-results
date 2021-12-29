@@ -3,8 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
+Install node modules in these directories: 1-server 2-root directory
+by command : npm install or yarn install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+for angular : Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+for node: Run 'node sserver.js'
+
+Please make sure you have put your serpAPI key in server/sserver.js
+
 
 ## Code scaffolding
 
