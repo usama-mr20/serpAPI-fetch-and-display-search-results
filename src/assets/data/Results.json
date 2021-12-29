@@ -1,0 +1,21 @@
+{
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/61afb442e7d08a685f50f09d/images/ed8bda76b255c4dc4634911fb134de5319e08af7e374d3ea998b50f738d9f3d2.jpeg",
+      "snippet": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. From the coffee fruit, the seeds are..."
+    },
+    {
+      "position": 2,
+      "title": "coffee - Amazon.com",
+      "link": "https://www.amazon.com/coffee/s?k=coffee",
+      "displayed_link": "https://www.amazon.com › coffee › k=coffee",
+      "thumbnail": "https://serpapi.com/searches/61afb442e7d08a685f50f09d/images/ed8bda76b255c4dc4634911fb134de535385a1c5cc50c83ae6761b07fcab6d45.jpeg",
+      "displayed_results": "Results 1 - 48 of 20000+",
+      "snippet": "Coffee is the most important way for anyone to get going in the morning. It's also a very popular drink being consumed daily by ..."
+    }
+  ]
+}
