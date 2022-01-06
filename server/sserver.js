@@ -18,18 +18,7 @@ app.get("/search/:query", (req, res) => {
   );
 });
 
-// app.get("/search/:query", (req, res) => {
-//   fetch(
-//     `https://serpapi.com/search.json?q=cat&hl=en&gl=us&api_key=bba58899acaa1584a243761cd9ce6a6478892eb633c9b8f8dd2a72cb08f7a6c4`,
-//     { method: "GET" }
-//   )
-//     .then((response) => {
-//       console.log(response);
-//       res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
-//       res.status(200).json(response);
-//     })
-//     .catch((err) => res.status(400).json("Error: " + err));
-// });
+
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
